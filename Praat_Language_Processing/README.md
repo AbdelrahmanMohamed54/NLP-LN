@@ -19,13 +19,7 @@ This repository contains the materials and findings from a phoneme analysis proj
 2. Review the text file to understand the detailed findings of the analysis, including formants, pitch track, and intensity for each phoneme.
 3. Feel free to explore the recordings and analysis results for further study or research purposes.
 
-### Contributors:
-- [Your Name]: [Your Email]
-- [Collaborator's Name]: [Collaborator's Email]
-
-For any questions or inquiries, please contact the contributors listed above.
-
 ### License:
-This project is licensed under the [Creative Commons License]. See the LICENSE file for details.
+See the LICENSE file for details.
 
 Thank you for your interest in our phoneme analysis project!
